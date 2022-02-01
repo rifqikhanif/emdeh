@@ -55,8 +55,8 @@
     "util": "^0.12.4",
     "xfarr-api": "^1.0.2",
     "yargs": "^17.2.1",
-    "ytdl-core":"^4.10.0",
-    "yt-search": "^2.7.6"
+    "pm2":"^4.4.2",
+    "ytsr": "^2.7.6"
   },
   "repository": {
     "type": "git",
